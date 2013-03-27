@@ -1,0 +1,31 @@
+<CATALOG>
+	<MODEL>
+		<NAME>ant</NAME>
+		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m0.off</URL>
+	</MODEL>
+	
+	<MODEL>
+		<NAME>termite</NAME>
+		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m1.off</URL>
+	</MODEL>
+
+	<MODEL>
+		<NAME>pig</NAME>
+		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m100.off</URL>
+	</MODEL>
+
+	<MODEL>
+		<NAME>wood pig</NAME>
+		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m101.off</URL>
+	</MODEL>
+
+	<MODEL>
+		<NAME>skeleton</NAME>
+		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m200.off</URL>
+	</MODEL>
+
+	<MODEL>
+		<NAME>muscle</NAME>
+		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m201.off</URL>
+	</MODEL>
+</CATALOG>
