@@ -1,31 +1,32 @@
-<CATALOG>
-	<MODEL>
-		<NAME>ant</NAME>
-		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m0.off</URL>
-	</MODEL>
+<?xml versio ="1.0" encoding="UTF-8"?>
+<catalog>
+	<model>
+		<name>ant</name>
+		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0.off</url>
+	</model>
 	
-	<MODEL>
-		<NAME>termite</NAME>
-		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m1.off</URL>
-	</MODEL>
+	<model>
+		<name>termite</name>
+		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m1.off</url>
+	</model>
 
-	<MODEL>
-		<NAME>pig</NAME>
-		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m100.off</URL>
-	</MODEL>
+	<model>
+		<name>pig</name>
+		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m100.off</url>
+	</model>
 
-	<MODEL>
-		<NAME>wood pig</NAME>
-		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m101.off</URL>
-	</MODEL>
+	<model>
+		<name>wood pig</name>
+		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m101.off</url>
+	</model>
 
-	<MODEL>
-		<NAME>skeleton</NAME>
-		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m200.off</URL>
-	</MODEL>
+	<model>
+		<name>skeleton</name>
+		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m200.off</url>
+	</model>
 
-	<MODEL>
-		<NAME>muscle</NAME>
-		<URL>https://raw.github.com/toxic-xc/GraduateDesign/master/m201.off</URL>
-	</MODEL>
-</CATALOG>
+	<model>
+		<name>muscle</name>
+		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m201.off</url>
+	</model>
+</catalog>
