@@ -2,31 +2,50 @@
 <catalog>
 	<model>
 		<name>ant</name>
-		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0.off</url>
+		<offUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0.off</offUrl>
+        <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Base.off</baseUrl>
+        <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Map.off</mapUrl>
+        <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp1Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp2Url>
 	</model>
-	
 	<model>
 		<name>termite</name>
-		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m1.off</url>
+		<offUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m1.off</offUrl>
+        <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Base.off</baseUrl>
+        <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Map.off</mapUrl>
+        <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp1Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp2Url>
 	</model>
-
 	<model>
 		<name>pig</name>
-		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m100.off</url>
+		<offUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m100.off</offUrl>
+        <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Base.off</baseUrl>
+        <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Map.off</mapUrl>
+        <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp1Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp2Url>
 	</model>
-
 	<model>
 		<name>wood pig</name>
-		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m101.off</url>
+		<offUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m101.off</offUrl>
+        <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Base.off</baseUrl>
+        <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Map.off</mapUrl>
+        <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp1Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp2Url>
 	</model>
-
 	<model>
 		<name>skeleton</name>
-		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m200.off</url>
+		<offUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m200.off</offUrl>
+        <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Base.off</baseUrl>
+        <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Map.off</mapUrl>
+        <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp1Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp2Url>
 	</model>
-
 	<model>
 		<name>muscle</name>
-		<url>https://raw.github.com/toxic-xc/GraduateDesign/master/m201.off</url>
+		<offUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m201.off</offUrl>
+        <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Base.off</baseUrl>
+        <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Map.off</mapUrl>
+        <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp1Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp2Url>
 	</model>
 </catalog>
