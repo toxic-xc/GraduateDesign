@@ -3,7 +3,7 @@
 	<model>
 		<name>ant</name>
 		<offUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0.off</offUrl>
-        <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Base.off</baseUrl>
+        <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0.off</baseUrl>
         <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Map.off</mapUrl>
         <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp1Url>
         <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m0Comp1.off</comp2Url>
