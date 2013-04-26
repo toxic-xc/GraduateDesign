@@ -14,7 +14,7 @@
         <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m1Base.off</baseUrl>
         <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m1Map.off</mapUrl>
         <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m1Comp1.off</comp1Url>
-        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m1Comp1.off</comp2Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m1Comp2.off</comp2Url>
 	</model>
 	<model>
 		<name>pig</name>
@@ -22,7 +22,7 @@
         <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m100Base.off</baseUrl>
         <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m100Map.off</mapUrl>
         <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m100Comp1.off</comp1Url>
-        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m100Comp1.off</comp2Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m100Comp2.off</comp2Url>
 	</model>
 	<model>
 		<name>wood pig</name>
@@ -30,7 +30,7 @@
         <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m101Base.off</baseUrl>
         <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m101Map.off</mapUrl>
         <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m101Comp1.off</comp1Url>
-        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m101Comp1.off</comp2Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m101Comp2.off</comp2Url>
 	</model>
 	<model>
 		<name>skeleton</name>
@@ -38,7 +38,7 @@
         <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m200Base.off</baseUrl>
         <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m200Map.off</mapUrl>
         <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m200Comp1.off</comp1Url>
-        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m200Comp1.off</comp2Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m200Comp2.off</comp2Url>
 	</model>
 	<model>
 		<name>muscle</name>
@@ -46,6 +46,6 @@
         <baseUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m201Base.off</baseUrl>
         <mapUrl>https://raw.github.com/toxic-xc/GraduateDesign/master/m201Map.off</mapUrl>
         <comp1Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m201Comp1.off</comp1Url>
-        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m201Comp1.off</comp2Url>
+        <comp2Url>https://raw.github.com/toxic-xc/GraduateDesign/master/m201Comp2.off</comp2Url>
 	</model>
 </catalog>
